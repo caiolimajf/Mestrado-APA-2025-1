@@ -1,6 +1,6 @@
 const { performance } = require('perf_hooks');
 
-// implementação recursiva
+// implementação iterativa
 // LLM utilizada: Claude
 
 function avaliarPolinomioIterativoLLM(coeficientes, x) {
