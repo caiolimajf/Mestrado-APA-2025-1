@@ -1,8 +1,9 @@
-📘 1º Trabalho de APA - 2025
+ 1º Trabalho de APA - 2025
 
 Disciplina: Análise e Projeto de Algoritmos
 Professor: Raul Fonseca Neto
 Instituição: UFJF - Mestrado em Ciência da Computação
+
 👨‍🏫 Alunos
 
     Caio Assis de Lima
@@ -10,7 +11,8 @@ Instituição: UFJF - Mestrado em Ciência da Computação
     Thiago Ramalho Vieira
 
 📌 Conteúdo
-📐 Avaliação de Polinômios
+
+ Avaliação de Polinômios
 
     Implementação Iterativa
 
@@ -20,7 +22,7 @@ Instituição: UFJF - Mestrado em Ciência da Computação
 
     Implementação Recursiva usando LLM
 
-🌀 Sequência de Fibonacci
+Sequência de Fibonacci
 
     Implementação Iterativa
 
@@ -30,10 +32,10 @@ Instituição: UFJF - Mestrado em Ciência da Computação
 
     Implementação Recursiva usando LLM
 
-📊 Benchmark
+Benchmark
 
     Vídeos de comparação de desempenho entre as implementações
 
-🖥️ Apresentação
+Apresentação
 
     Slides explicativos sobre o trabalho e os resultados
